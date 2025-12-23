@@ -2,11 +2,11 @@
   <img src="img/forge.png" width="200">
 </p>
 
-# Eagler Modpack Offline first snapshot ("PRE-ALPHA-u0")
+## Eagler Modpack Offline first snapshot
 
 ---
 
-### Variants Offline
+### Variants Offline ("PRE-ALPHA-u0")
 
 - [Skyfactory](./skyfactory)
 - [Ultimate](./ultimate)
