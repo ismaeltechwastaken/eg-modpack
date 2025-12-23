@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/forge.png" width="50%" alt="Eagler Modpack Client">
+  <img src="img/forge.png" width="200">
 </p>
 
 # Eagler Modpack Offline first snapshot ("PRE-ALPHA-u0")
