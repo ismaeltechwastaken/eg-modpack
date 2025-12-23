@@ -2,7 +2,7 @@
   <img src="img/forge.png" width="200">
 </p>
 
-## Eagler Modpack Offline first snapshot
+# Eagler Modpack Offline first snapshot
 
 ---
 
